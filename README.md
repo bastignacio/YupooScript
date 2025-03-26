@@ -28,5 +28,3 @@ Este script utiliza [Playwright](https://playwright.dev/) para acceder a un álb
    # En macOS/Linux:
    source venv/bin/activate
 
-python -m pip install --upgrade pip
-python -m pip install playwright
